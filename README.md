@@ -1,1 +1,1 @@
-The hvac_env.py file is the file containing the gym environment to simulate HVAC usage. 
+The hvac_env.py file is the file containing the gym environment to simulate HVAC usage. hvac_oracle.py is the expert oracle, which works on the same principle as IO HMM. This is to be used by the AceIRL algorithm to get actions for any visited state. 
